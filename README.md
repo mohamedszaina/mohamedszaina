@@ -25,11 +25,11 @@ I worked with:
     • Node.JS/Express.JS
     • MongoDB/Mongoose 
 
-- Version Control
+ - Version Control
     • Git, GitHub
 
--package manager
-• npm
+ - Package manager
+    • npm
 
 With these and other technologies I've worked on many projects of various 
 complexity.
@@ -45,7 +45,7 @@ Here is what I can do for you:
 I would be more than happy to offer you my services, so feel free to contact me for an interview .
 📫 How to reach me ...
 
-    - My Linktree: https://linktr.ee/mohamed.s.zaina
+    - My Linktree: https://linktr.ee/mohamedszaina
     ----------------------------------------------------------------------------------
     
 Looking forward to hear from you.
