@@ -6,30 +6,29 @@ I have a Bachelor degree in Information Technology.
 
 My primary hard skill set includes NodeJS (Express) on the backend beside many other hard skills, 
 beside my many soft skills like:
-1- Excellent communication and organizational abilities with resourceful approach to solving diverse problems,
-2- Deadline-driven and knowledgeable professional with strong desire to learn and contribute to team success,
-3- Successful at improving usability, performance and functionality by applying skills.
+ - Excellent communication and organizational abilities with resourceful approach to solving diverse problems,
+ - Deadline-driven and knowledgeable professional with strong desire to learn and contribute to team success,
+ - Successful at improving usability, performance and functionality by applying skills.
 
 I have a strong expertise in Software development life cycle from modeling to deploying.
 
 I worked with:
- - Front end 
-    • Html5
-    • Css3
-    • JavaScript
-    • Bootstrap5
-    • server-side templating languages EJS
-
+<!--  1. Front end 
+    - Html5
+    - Css3
+    - JavaScript
+    - Bootstrap5
+    - server-side templating languages EJS -->
  - Back end 
-    • JavaScript
-    • Node.JS/Express.JS
-    • MongoDB/Mongoose 
+    - JavaScript
+    - Node.JS/Express.JS
+    - MongoDB/Mongoose 
 
  - Version Control
-    • Git, GitHub
+    - Git, GitHub
 
  - Package manager
-    • npm
+    - npm
 
 With these and other technologies I've worked on many projects of various 
 complexity.
@@ -45,8 +44,7 @@ Here is what I can do for you:
 I would be more than happy to offer you my services, so feel free to contact me for an interview .
 📫 How to reach me ...
 
-    - My Linktree: https://linktr.ee/mohamedszaina
-    ----------------------------------------------------------------------------------
+Visit my Linktree: https://linktr.ee/mohamedszaina 
     
 Looking forward to hear from you.
 
