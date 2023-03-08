@@ -50,8 +50,7 @@ I would be more than happy to offer you my services, so feel free to contact me 
     
 Looking forward to hear from you.
 
-Thank you 
-Mohamed-S-Zaina
+Mohamed-S-Zaina.
 - 
 
 <!---
