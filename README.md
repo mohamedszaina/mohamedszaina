@@ -1,16 +1,16 @@
-I can and I will solve it … 
-You have the idea and I will make sure it's implemented.
+I can and will solve it … 
+You have the idea and I will ensure it's implemented.
 
 I am a Back-End Web Developer with strong experience,
-I have a Bachelor degree in Information Technology. 
+I have a Bachelor's degree in Information Technology. 
 
-My primary hard skill set includes NodeJS (Express) on the backend beside many other hard skills, 
-beside my many soft skills like:
+My primary hard skill set includes NodeJS (Express) on the backend besides many other hard skills, 
+besides my many soft skills like:
  - Excellent communication and organizational abilities with resourceful approach to solving diverse problems,
  - Deadline-driven and knowledgeable professional with strong desire to learn and contribute to team success,
  - Successful at improving usability, performance and functionality by applying skills.
 
-I have a strong expertise in Software development life cycle from modeling to deploying.
+I have strong expertise in the Software development life cycle from modeling to deploying.
 
 I worked with:
 <!--  1. Front end 
@@ -33,11 +33,11 @@ I worked with:
 With these and other technologies I've worked on many projects of various 
 complexity.
 
-I will ask the right and the proper questions to clarify the requirements and this way 
-I will save your money otherwise spent on the afterwards fixes or rewrites. 
+I will ask the right and the proper questions to clarify the requirements and in this way, 
+I will save your money otherwise spent on the afterward fixes or rewrites. 
 
 Here is what I can do for you:
-- Create app from scratch to enable your businesses 
+- Create an app from scratch to enable your businesses 
 - Develop new features for your existing apps 
 - Fix buggy apps 
 
@@ -46,7 +46,7 @@ I would be more than happy to offer you my services, so feel free to contact me 
 
 Visit my Linktree: https://linktr.ee/mohamedszaina 
     
-Looking forward to hear from you.
+Looking forward to hearing from you.
 
 Mohamed-S-Zaina.
 - 
